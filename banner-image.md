@@ -144,6 +144,7 @@ public class Banner extends BaseEntity {
 ---
 
 ##  6. 컨트롤러 주요 포인트
+```java
 - `@RequestPart` 로 Multipart + JSON 동시 수신
 - `ObjectMapper`로 JSON 문자열 → VO 수동 매핑
 - Swagger 연동 (`@Operation` 활용)
