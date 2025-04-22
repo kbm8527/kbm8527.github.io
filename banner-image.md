@@ -161,7 +161,7 @@ public class Banner extends BaseEntity {
 
         return bannerImageService.uploadBanner(image, AddBannerImageRequestDto.from(addBannerImageRequestVo));
     }
-
+```
 ---
 
 ##  7. 특징 및 장점
