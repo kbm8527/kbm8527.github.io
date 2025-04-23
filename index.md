@@ -1,8 +1,6 @@
 ---
 layout: default
-title: BACKEND KIM
-
----
+title: BACKEND KIM---
 
 # 🌟 김보미의 백엔드 포트폴리오
 
