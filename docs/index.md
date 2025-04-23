@@ -24,6 +24,3 @@ title: 김보미의 백엔드 포트폴리오
 - Email: kbm8527@gmail.com
 ---
 
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jekyll-theme-cayman/0.1.1/style.css">
-</head>
