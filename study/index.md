@@ -8,51 +8,51 @@ title: everythis for web-develop
 
 ## 목차
 
-### 🔗 [JAVA - SPRING](./01-spring-mvc-structure/)
-- [Spring Mvc Overview](./01-spring-mvc-structure/spring-mvc-overview.md)
+### 🔗 [JAVA - SPRING](./index.md/)
+- [Spring Mvc Overview](./index.md)
 
-### 🔗 [DATABASE DESGIN](./02-db-design-and-jpa/)
+### 🔗 [DATABASE DESGIN](./index.md/)
 - [Jpa Entity Design](./02-db-design-and-jpa/jpa-entity-design.md)
 
-### 🔗 [API DESIGN](./04-api-design/)
+### 🔗 [API DESIGN](./index.md/)
 - [Restful Principles](./04-api-design/restful-principles.md)
 - [Dto Vo Structure](./04-api-design/dto-vo-structure.md)
 - [Swagger Documentation](./04-api-design/swagger-documentation.md)
 
-### 🔗 [AUTHENTICATION & SECURITY](./05-authentication-and-security/)
+### 🔗 [AUTHENTICATION & SECURITY](./index.md/)
 - [Spring Security](./05-authentication-and-security/spring-security.md)
 - [Jwt Authentication](./05-authentication-and-security/jwt-authentication.md)
 - [Oauth2 Login](./05-authentication-and-security/oauth2-login.md)
 
-### 🔗 [DEPLOYOMENT & OPERATIONS](./06-deployment-and-operations/)
+### 🔗 [DEPLOYOMENT & OPERATIONS](./index.md/)
 - [Github Actions](./06-deployment-and-operations/github-actions.md)
 - [Jenkins Pipeline](./06-deployment-and-operations/jenkins-pipeline.md)
 - [Ec2 Docker Deployment](./06-deployment-and-operations/ec2-docker-deployment.md)
 - [Blue Green Deployment](./06-deployment-and-operations/blue-green-deployment.md)
 - [Traffic Scaling](./06-deployment-and-operations/traffic-scaling.md)
 
-### 🔗 [INFRASTRUCTURE](./07-infrastructure/)
+### 🔗 [INFRASTRUCTURE](./index.md/)
 - [Redis Cache](./07-infrastructure/redis-cache.md)
 - [S3 Image Storage](./07-infrastructure/s3-image-storage.md)
 - [Nginx Reverse Proxy](./07-infrastructure/nginx-reverse-proxy.md)
 - [Rds Security](./07-infrastructure/rds-security.md)
 
-### 🔗 [SYSTEM ARCHITECTURE](./08-system-architecture/)
+### 🔗 [SYSTEM ARCHITECTURE](./index.md/)
 - [Domain Separation Msa](./08-system-architecture/domain-separation-msa.md)
 - [Event Driven Architecture](./08-system-architecture/event-driven-architecture.md)
 - [Async Processing Kafka](./08-system-architecture/async-processing-kafka.md)
 
-### 🔗 [MONITORING & LOGGING](./09-monitoring-and-logging/)
+### 🔗 [MONITORING & LOGGING](./index.md/)
 - [Actuator Prometheus](./09-monitoring-and-logging/actuator-prometheus.md)
 - [Elk Stack](./09-monitoring-and-logging/elk-stack.md)
 - [Cloudwatch And Slack](./09-monitoring-and-logging/cloudwatch-and-slack.md)
 
-### 🔗 [TESTING - STRATEGIES](./10-testing-strategies/)
+### 🔗 [TESTING - STRATEGIES](./index.md/)
 - [Junit Mockito](./10-testing-strategies/junit-mockito.md)
 - [Testcontainers Practice](./10-testing-strategies/testcontainers-practice.md)
 - [Ci Test Automation](./10-testing-strategies/ci-test-automation.md)
 
-### 🔗 [TESTING & EXCEPTION-HANDLING](./03-testing-and-exception-handling/)
+### 🔗 [TESTING & EXCEPTION-HANDLING](./index.md/)
 - [Global Exception Handler](./03-testing-and-exception-handling/global-exception-handler.md)
 
 ---
