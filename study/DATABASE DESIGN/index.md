@@ -8,7 +8,7 @@ title: everythis for web-develop
 
 ## 목차
 
-### 🔗 [DATABASE DESGIN](/study/DATABASE DESGIN/)
+### 🔗 [DATABASE DESIGN](/study/DATABASE DESIGN/)
 
 - [Jpa Entity Design](/study/DATABASE DESGIN/Jpa Entity Design.md)
   
