@@ -34,7 +34,8 @@ title: everythis for web-develop
 
 ## 🐳 배포 & 운영
 
-- 🔗 [Deployment & Operations](/study/DEPLOYMENT & OPERATIONS/)
+- 🔗 [Deployment & Operation](/study/DEPLOYMENT & OPERATION/)
+- 🔗 [CI/CD Pipelines](/study/DEPLOYMENT & OPERATION/)
 - 🔗 [DevTools & Environment](/study/DEVTOOLS & ENVIRONMENT/)
 
 ## ☁️ 인프라 구성
