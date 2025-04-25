@@ -8,7 +8,7 @@ title: everythis for web-develop
 
 ## 목차
 
-### 🔗 [JAVA - SPRING](/JAVA - SPRING/)
+### 🔗 [JAVA - SPRING](/STUDY/JAVA - SPRING/)
 - [Spring Mvc Overview](./index.md)
 
 ### 🔗 [DATABASE DESGIN](./index.md/)
