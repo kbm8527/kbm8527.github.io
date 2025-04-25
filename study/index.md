@@ -6,29 +6,53 @@ title: everythis for web-develop
 
 ---
 
-## 목차
 
-### 🔗 [BASIC CS & PROGRAMMING](/study/JAVA - SPRING/)
+## 🧠 기본 CS & 프로그래밍
 
-### 🔗 [JAVA - SPRING](/study/JAVA - SPRING/)
+- 🔗 [Basic CS & Programming](/study/BASIC CS & PROGRAMMING/)
+- 🔗 [Algorithms & Data Structures](/study/ALGORITHMS & DATA STRUCTURES/)
+- 🔗 [Software Engineering Principles](/study/SOFTWARE ENGINEERING PRINCIPLES/)
 
-### 🔗 [DATABASE DESGIN](/study/DATABASE DESGIN/)
+## ☕ Java & Spring 기본기
 
-### 🔗 [API DESIGN](/study/API DESIGN/)
+- 🔗 [Java - Spring](/study/JAVA - SPRING/)
+- 🔗 [Testing & Exception Handling](/study/TESTING & EXCEPTION-HANDLING/)
+- 🔗 [Testing - Strategies](/study/TESTING - STRATEGIES/)
 
-### 🔗 [AUTHENTICATION & SECURITY](/study/AUTHENTICATION & SECURITY/)
+## 🧾 데이터베이스
 
-### 🔗 [DEPLOYOMENT & OPERATIONS](/study/DEPLOYOMENT & OPERATION/)
+- 🔗 [Database Design](/study/DATABASE DESIGN/)
 
-### 🔗 [INFRASTRUCTURE](/study/INFRASTRUCTURE/)
+## 🌐 API 설계 및 문서화
 
-### 🔗 [SYSTEM ARCHITECTURE](/study/SYSTEM ARCHITECTURE/)
+- 🔗 [API Design](/study/API DESIGN/)
 
-### 🔗 [MONITORING & LOGGING](/study/MONITORING & LOGGING/)
+## 🔐 인증 & 보안
 
-### 🔗 [TESTING - STRATEGIES](/study/TESTING - STRATEGIES/)
+- 🔗 [Authentication & Security](/study/AUTHENTICATION & SECURITY/)
+- 🔗 [Security Best Practices](/study/SECURITY BEST PRACTICES/)
 
-### 🔗 [TESTING & EXCEPTION-HANDLING](/study/JAVA - SPRING/)
+## 🐳 배포 & 운영
+
+- 🔗 [Deployment & Operations](/study/DEPLOYMENT & OPERATIONS/)
+- 🔗 [DevTools & Environment](/study/DEVTOOLS & ENVIRONMENT/)
+
+## ☁️ 인프라 구성
+
+- 🔗 [Infrastructure](/study/INFRASTRUCTURE/)
+- 🔗 [Network & Web](/study/NETWORK & WEB/)
+
+## 🏗 시스템 아키텍처
+
+- 🔗 [System Architecture](/study/SYSTEM ARCHITECTURE/)
+
+## 📈 성능 및 최적화
+
+- 🔗 [Performance & Optimization](/study/PERFORMANCE & OPTIMIZATION/)
+
+## 🛠 모니터링 & 로깅
+
+- 🔗 [Monitoring & Logging](/study/MONITORING & LOGGING/)
 
 ---
 [🔙 Back to Portfolio Main](../index.md)
