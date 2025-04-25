@@ -15,9 +15,6 @@ title: everythis for web-develop
 - [Jpa Entity Design](./02-db-design-and-jpa/jpa-entity-design.md)
 
 ### 🔗 [API DESIGN](/study/API DESIGN/)
-- [Restful Principles](./04-api-design/restful-principles.md)
-- [Dto Vo Structure](./04-api-design/dto-vo-structure.md)
-- [Swagger Documentation](./04-api-design/swagger-documentation.md)
 
 ### 🔗 [AUTHENTICATION & SECURITY](/study/AUTHENTICATION & SECURITY/)
 - [Spring Security](./05-authentication-and-security/spring-security.md)
