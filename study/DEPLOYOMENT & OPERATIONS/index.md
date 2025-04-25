@@ -10,7 +10,7 @@ title: everythis for web-develop
 
 ### 🔗 [DEPLOYOMENT & OPERATIONS](/study/DEPLOYOMENT & OPERATION/)
 
-- [Github Actions](/study/DEPLOYOMENT & OPERATION//Github Actions.md)
+- [Github Actions](/study/DEPLOYOMENT & OPERATION/Github Actions.md)
 - [Jenkins Pipeline](/study/DEPLOYOMENT & OPERATION/Jenkins Pipeline.md)
 - [Ec2 Docker Deployment](/study/DEPLOYOMENT & OPERATION/Ec2 Docker Deployment.md)
 - [Blue Green Deployment](/study/DEPLOYOMENT & OPERATION/Blue Green Deployment.md)
