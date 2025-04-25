@@ -10,9 +10,9 @@ title: everythis for web-develop
 
 ### 🔗 [AUTHENTICATION & SECURITY](/study/AUTHENTICATION & SECURITY/)
 
-- [Spring Security](/study/AUTHENTICATION & SECURITY//spring-security.md)
-- [Jwt Authentication](/study/AUTHENTICATION & SECURITY//jwt-authentication.md)
-- [Oauth2 Login](/study/AUTHENTICATION & SECURITY//oauth2-login.md)
+- [Spring Security](/study/AUTHENTICATION & SECURITY/Spring Security.md)
+- [Jwt Authentication](/study/AUTHENTICATION & SECURITY/Jwt Authentication.md)
+- [Oauth2 Login](/study/AUTHENTICATION & SECURITY/Oauth2 Login.md)
 
 ---
 [🔙 Back to Portfolio Main](../index.md)
