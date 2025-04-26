@@ -10,7 +10,7 @@ title: everythis for web-develop
 # study
 
 ## 📊 알고리즘 & 데이터 구조
-- [ALGORITHMS & DATA STRUCTURES](/study/ALGORITHMS%20&%20DATA%20STRUCTURES/index.md)
+- [ALGORITHMS & DATA STRUCTURES](/study/ALGORITHMS & DATA STRUCTURES/index.md)
 
 ## 🌐 API 설계
 - [API DESIGN](/study/API%20DESIGN/index.md)
