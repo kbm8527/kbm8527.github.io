@@ -10,50 +10,51 @@ title: STUDY
 
 # study
 
-## 📊 알고리즘 & 데이터 구조
-- [ALGORITHMS & DATA STRUCTURES](/study/ALGORITHMS-&-DATA-STRUCTURES/index.md)
+## 📊 ALGORITHMS & DATA STRUCTURES
+- [ALGORITHMS & DATA STRUCTURES](/study/algorithms-and-data-structures/index.md)
 
-## 🌐 API 설계
-- [API DESIGN](/study/API DESIGN/index.md)
+## 🌐 API DESIGN
+- [API DESIGN](/study/api-design/index.md)
 
-## 🔐 인증 & 보안
-- [AUTHENTICATION & SECURITY](/study/AUTHENTICATION & SECURITY/index.md)
+## 🔐 AUTHENTICATION & SECURITY
+- [AUTHENTICATION & SECURITY](/study/authentication-and-security/index.md)
 
-## 🧠 기본 CS & 프로그래밍
-- [BASIC CS & PROGRAMMING](/study/BASIC CS & PROGRAMMING/index.md)
+## 🧠 BASIC CS & PROGRAMMING
+- [BASIC CS & PROGRAMMING](/study/basic-cs-and-programming/index.md)
 
-## 🧾 데이터베이스 설계
-- [DATABASE DESIGN](/study/DATABASE DESIGN/index.md)
+## 🧾 DATABASE DESIGN
+- [DATABASE DESIGN](/study/database-design/index.md)
 
-## 🐳 배포 & 운영
-- [DEPLOYMENT & OPERATION](/study/DEPLOYMENT & OPERATION/index.md)
+## 🐳 DEPLOYMENT & OPERATION
+- [DEPLOYMENT & OPERATION](/study/deployment-and-operation/index.md)
 
-## ⚙️ 개발 도구 & 환경 설정
-- [DEVTOOLS & ENVIRONMENT](/study/DEVTOOLS & ENVIRONMENT/index.md)
+## ⚙️ DEVTOOLS & ENVIRONMENT
+- [DEVTOOLS & ENVIRONMENT](/study/devtools-and-environment/index.md)
 
-## ☁️ 인프라 구성
-- [INFRASTRUCTURE](/study/INFRASTRUCTURE/index.md)
+## ☁️ INFRASTRUCTURE
+- [INFRASTRUCTURE](/study/infrastructure/index.md)
 
 ## ☕ JAVA - SPRING
-- [JAVA - SPRING](/study/JAVA - SPRING/index.md)
+- [JAVA - SPRING](/study/java-spring/index.md)
 
-## 🛠 모니터링 & 로깅
-- [MONITORING & LOGGING](/study/MONITORING & LOGGING/index.md)
+## 🛠 MONITORING & LOGGING
+- [MONITORING & LOGGING](/study/monitoring-and-logging/index.md)
 
-## 🌐 네트워크 & 웹
-- [NETWORK & WEB](/study/NETWORK & WEB/index.md)
+## 🌐 NETWORK & WEB
+- [NETWORK & WEB](/study/network-and-web/index.md)
 
-## 📈 성능 최적화
-- [PERFORMANCE & OPTIMIZATION](/study/PERFORMANCE & OPTIMIZATION/index.md)
+## 📈 PERFORMANCE & OPTIMIZATION
+- [PERFORMANCE & OPTIMIZATION](/study/performance-and-optimization/index.md)
 
-## 📐 소프트웨어 공학 원칙
-- [SOFTWARE ENGINEERING PRINCIPLES](/study/SOFTWARE ENGINEERING PRINCIPLES/index.md)
+## 📐 SOFTWARE ENGINEERING PRINCIPLES
+- [SOFTWARE ENGINEERING PRINCIPLES](/study/software-engineering-principles/index.md)
 
-## 🏗 시스템 아키텍처
-- [SYSTEM ARCHITECTURE](/study/SYSTEM ARCHITECTURE/index.md)
+## 🏗 SYSTEM ARCHITECTURE
+- [SYSTEM ARCHITECTURE](/study/system-architecture/index.md)
 
-## 🧪 테스트 & 예외 처리
-- [TESTING & EXCEPTION-HANDLING](/study/TESTING & EXCEPTION-HANDLING/index.md)
+## 🧪 TESTING & EXCEPTION HANDLING
+- [TESTING & EXCEPTION HANDLING](/study/testing-and-exception-handling/index.md)
+
 
 ---
 [🔙 Back to Portfolio Main](../index.md)
