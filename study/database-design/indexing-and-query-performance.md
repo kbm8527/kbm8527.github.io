@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ERD 설계
+title: Indexing & Query Performance
 ---
 
 
