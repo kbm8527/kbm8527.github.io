@@ -5,10 +5,6 @@ title: Http Methods And Status Codes
 ---
 
 
-
-
-
-
 ---
 
 
@@ -24,5 +20,5 @@ title: Http Methods And Status Codes
 [🔙 Back to Portfolio Main](../index.md)
 
 ---
->>>>>>> 5fbfb30abf06d3f36359bf4735d8bf55da9e154b
+
 
