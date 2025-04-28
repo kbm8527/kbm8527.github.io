@@ -8,11 +8,14 @@ title: everythis for web-develop
 
 ## 목차
 
-### 🔗 [SYSTEM ARCHITECTURE](/study/SYSTEM ARCHITECTURE/)
+### 🔗 [SYSTEM ARCHITECTURE](/study/system-architecture/)
 
-- [Domain Separation Msa](/study/SYSTEM ARCHITECTURE/Domain Separation Msa.md)
-- [Event Driven Architecture](/study/SYSTEM ARCHITECTURE/Event Driven Architecture.md)
-- [Async Processing Kafka](/study/SYSTEM ARCHITECTURE/Async Processing Kafka.md)
+- [API Gateway & Load Balancer](/study/system-architecture/api-gateway-and-load-balancer.md)
+- [Async Processing Kafka](/study/system-architecture/async-processing-kafka.md)
+- [CQRS & Event Sourcing](/study/system-architecture/cqrs-and-event-sourcing.md)
+- [Hexagonal Architecture & DDD](/study/system-architecture/hexagonal-architecture-and-ddd.md)
+- [SLA & SLO](/study/system-architecture/sla-slo.md)
+- [Microservices Design](/study/system-architecture/microservices-design.md)
 
 ---
 [🔙 Back to Portfolio Main](../index.md)
