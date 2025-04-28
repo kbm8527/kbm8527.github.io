@@ -8,12 +8,13 @@ title: everythis for web-develop
 
 ## 목차
 
-### 🔗 [INFRASTRUCTURE](/study/INFRASTRUCTURE/)
+### 🔗 [INFRASTRUCTURE](/study/infrastructure/)
 
-- [Redis Cache](/study/INFRASTRUCTURE/Redis Cache.md)
-- [S3 Image Storage](/study/INFRASTRUCTURE/S3 Image Storage.md)
-- [Nginx Reverse Proxy](/study/INFRASTRUCTURE/Nginx Reverse Proxy.md)
-- [RDS Security](/study/INFRASTRUCTURE/RDS Security.md)
+- [Network & Web](/study/infrastructure/network-and-web.md)
+- [Nginx Reverse Proxy](/study/infrastructure/nginx-reverse-proxy.md)
+- [RDS Security](/study/infrastructure/rds-security.md)
+- [Redis Cache](/study/infrastructure/redis-cache.md)
+- [S3 Image Storage](/study/infrastructure/s3-image-storage.md)
 
 ---
 [🔙 Back to Portfolio Main](../index.md)
