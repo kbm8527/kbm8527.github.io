@@ -9,10 +9,14 @@ title: everythis for web-develop
 ## 목차
 
 
-### 🔗 [API DESIGN](/study/API DESIGN/)
-- [Restful Principles](/study/API DESIGN/Restful Principles.md)
-- [Dto Vo Structure](/study/API DESIGN//Dto, Vo Structure.md)
-- [Swagger Documentation](/study/API DESIGN/Swagger Documentation.md)
+### 🔗 [API DESIGN](/study/api-design/)
+
+- [Restful Principles](/study/api-design/restful-api-principles.md)
+- [Dto Vo Structure](/study/api-design/dto-vo-structure.md)
+- [URI Design Strategy](/study/api-design/uri-design-strategy.md)
+- [HTTP Methods and Status Codes](/study/api-design/http-methods-and-status-codes.md)
+- [Swagger Documentation](/study/api-design/swagger-documentation.md)
+  
 ---
 [🔙 Back to Portfolio Main](../index.md)
 
