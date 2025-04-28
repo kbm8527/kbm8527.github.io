@@ -7,7 +7,7 @@ title: ALGORITHMS & DATA STRUCTURES
 
 ---
 
-## 📊  [정렬, 탐색 알고리즘](/study/algorithms-and-data-structures/정렬, 탐색 알고리즘.md)
+## 📊  [정렬, 탐색 알고리즘](/study/algorithms-and-data-structures/sorting-search.md)
 
 
 ---
