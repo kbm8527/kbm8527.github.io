@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Network & Web
+title: Nginx Reverse Proxy
 ---
 
 
