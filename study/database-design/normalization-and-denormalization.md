@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Indexing & Query Performance
+title: Normalization & Denormalization
 ---
 
 
