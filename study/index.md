@@ -11,7 +11,7 @@ title: STUDY
 # study
 
 ## 📊 ALGORITHMS & DATA STRUCTURES
-- [ALGORITHMS & DATA STRUCTURES](/study/algorithms-and-data-structures/index.md)
+- [ALGORITHMS & DATA STRUCTURES](/study/algorithms-and-data-structures/)
 
 ## 🌐 API DESIGN
 - [API DESIGN](/study/api-design/index.md)
