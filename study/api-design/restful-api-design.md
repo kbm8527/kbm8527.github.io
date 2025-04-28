@@ -4,10 +4,6 @@ title: Restful Api Design
 ---
 
 
-
-
-
-
 ---
 
 
