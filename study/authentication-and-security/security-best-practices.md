@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Security Best Practies
+
+---
+
 ---
 
 ## 목차
