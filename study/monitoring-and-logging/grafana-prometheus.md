@@ -4,5 +4,14 @@ title: Grafana Prometheus
 ---
 
 
+## 목차
 
-## grafana promethesus를 이용한 시스템 모니터링
+### 🔗 [Grafana & Prometheus](/study/monitoring-and-logging/)
+
+- [Grafana & Prometheus](/study/monitoring-and-logging/grafana-prometheus)
+
+---
+[🔙 Back to Portfolio Main](../index.md)
+
+---
+
