@@ -1,6 +1,6 @@
 ---
 layout: default
-title: everythis for web-develop
+title: Monitoring & Logging
 ---
 
 
@@ -10,10 +10,10 @@ title: everythis for web-develop
 
 ### 🔗 [MONITORING & LOGGING](/study/monitoring-and-logging/)
 
-- [ELK Stack](/study/monitoring-and-logging/elk-stack.md)
-- [Grafana & Prometheus](/study/monitoring-and-logging/grafana-prometheus.md)
-- [Logging with Logback](/study/monitoring-and-logging/logging-with-logback.md)
-- [Spring Boot Actuator](/study/monitoring-and-logging/spring-boot-actuator.md)
+- [ELK Stack](/study/monitoring-and-logging/elk-stack)
+- [Grafana & Prometheus](/study/monitoring-and-logging/grafana-prometheus)
+- [Logging with Logback](/study/monitoring-and-logging/logging-with-logback)
+- [Spring Boot Actuator](/study/monitoring-and-logging/spring-boot-actuator)
 
 ---
 [🔙 Back to Portfolio Main](../index.md)
