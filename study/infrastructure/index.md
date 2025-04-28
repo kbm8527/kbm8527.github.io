@@ -1,6 +1,6 @@
 ---
 layout: default
-title: everythis for web-develop
+title: index
 ---
 
 
