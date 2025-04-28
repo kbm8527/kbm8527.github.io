@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Redis Cache
+title: S3 Image Storage
 ---
 
 
