@@ -1,14 +1,12 @@
 ---
 layout: default
-<<<<<<< HEAD
 title: Http Methods And Status Codes
----
-
-
-=======
-title: HTTP Methods and Status Codes
 
 ---
+
+
+
+
 
 
 ---
