@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Basic CS & Programming
 ---
 
 
@@ -10,10 +10,10 @@ title: Index
 ---
 
 ### 🔗 [BASIC CS & PROGRAMMING](/study/basic-cs-and-programming/)
-- [Git & GitHub](/study/basic-cs-and-programming/git-and-github.md)
-- [HTTP & Web Structure](/study/basic-cs-and-programming/http-and-web.md)
-- [Java Basics](/study/basic-cs-and-programming/java-basics.md)
-- [Linux Commands](/study/basic-cs-and-programming/linux-commands.md)
-- [OOP Concepts](/study/basic-cs-and-programming/oop-concepts.md)
+- [Git & GitHub](/study/basic-cs-and-programming/git-and-github)
+- [HTTP & Web Structure](/study/basic-cs-and-programming/http-and-web)
+- [Java Basics](/study/basic-cs-and-programming/java-basics)
+- [Linux Commands](/study/basic-cs-and-programming/linux-commands)
+- [OOP Concepts](/study/basic-cs-and-programming/oop-concepts)
   
 ---
