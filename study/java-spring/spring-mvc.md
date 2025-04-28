@@ -1,6 +1,6 @@
 ---
 layout: default
-title: S3 Image Storage
+title: Spring MVC
 ---
 
 
