@@ -1,15 +1,11 @@
 ---
 layout: default
-<<<<<<< HEAD
 title: Restful Api Design
----
-
-
-=======
-title: everythis for web-develop
 
 ---
->>>>>>> 5fbfb30abf06d3f36359bf4735d8bf55da9e154b
+
+
+
 
 
 

@@ -4,14 +4,6 @@ title: Sorting Search
 ---
 
 
-<<<<<<< HEAD
-=======
----
-layout: default
-title: ALGORITHMS & DATA STRUCTURES
-
----
-
 
 
 ---
@@ -23,5 +15,5 @@ title: ALGORITHMS & DATA STRUCTURES
 [🔙 Back to Portfolio Main](../index.md)
 
 ---
->>>>>>> f95542b2a86c830b86ddc5aeffb6e6623274708e
+
 

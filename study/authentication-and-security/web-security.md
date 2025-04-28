@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spring Security
+title: Web Security
 ---
 
 

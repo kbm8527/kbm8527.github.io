@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Security Best Practies
+title: Spring Security
 ---
 
 
