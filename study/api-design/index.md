@@ -3,7 +3,6 @@ layout: default
 title: API Design
 ---
 
-
 ---
 
 ## 목차
