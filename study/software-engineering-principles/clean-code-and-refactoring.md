@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SOLID 원칙
+title: Clean Code & Refactoring
 ---
 
 
