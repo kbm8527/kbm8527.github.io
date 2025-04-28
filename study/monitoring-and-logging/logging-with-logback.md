@@ -3,6 +3,18 @@ layout: default
 title: Logging With Logback
 ---
 
+---
+
+## 목차
+
+### 🔗 [Logging with Logback](/study/monitoring-and-logging/)
 
 
-## 구조화된 로그 작성을 위한 logbak 사용
+- [Logging with Logback](/study/monitoring-and-logging/logging-with-logback)
+
+
+---
+[🔙 Back to Portfolio Main](../index.md)
+
+---
+
