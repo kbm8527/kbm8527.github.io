@@ -1,13 +1,10 @@
 ---
 layout: default
-<<<<<<< HEAD
 title: Uri Design Strategy
+
 ---
 
 
-=======
-title: everythis for web-develop
----
 
 
 ---
@@ -24,5 +21,4 @@ title: everythis for web-develop
 
 ---
 
->>>>>>> 5fbfb30abf06d3f36359bf4735d8bf55da9e154b
 
