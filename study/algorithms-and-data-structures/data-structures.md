@@ -12,7 +12,7 @@ title: Data Structures
 
 
 ---
-[🔙 Back to Portfolio Main](../index.md)
+[🔙 Back to Portfolio Main](./index.md)
 
 ---
 
