@@ -13,7 +13,7 @@ title: Http Methods And Status Codes
 
 ### 🔗 [HTTP Methods and Status Codes](/study/api-design/)
 
-- [HTTP Methods and Status Codes](/study/api-design/http-methods-and-status-codes.md)
+- [HTTP Methods and Status Codes](/study/api-design/http-methods-and-status-codes)
 
   
 ---
