@@ -7,7 +7,7 @@ title: Spring
 
 
 ---
-### 🔗 [JAVA - SPRING](/study/JAVA - SPRING/)
+### 🔗 [Spring](/study/JAVA - SPRING/)
 
 JVM Structure and Memory Model
 영어: Understanding JVM and Java Memory Model
