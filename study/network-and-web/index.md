@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Index
+title: Netword & Web
 ---
 
 
@@ -13,6 +13,6 @@ title: Index
 
 ### 🔗 [NETWORK & WEB](/study/network-and-web/)
 
-- [Network Basics](/study/network-and-web/network-basics.md)
+- [Network Basics](/study/network-and-web/network-basics)
 
 ---
