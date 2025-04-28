@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 성능 및 최적화
+title: Performance Optimization
 ---
 
 
