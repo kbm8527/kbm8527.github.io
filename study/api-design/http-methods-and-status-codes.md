@@ -1,6 +1,7 @@
 ---
 layout: default
-title: everythis for web-develop
+title: HTTP Methods and Status Codes
+
 ---
 
 
