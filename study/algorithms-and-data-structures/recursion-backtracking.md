@@ -8,7 +8,7 @@ title: Recursion Backtracking
 
 ---
 
-## 📊  [Recursion Backtracking](/study/algorithms-and-data-structures/recursion-backtracking.md)
+## 📊  [Recursion Backtracking](/study/algorithms-and-data-structures/recursion-backtracking)
 
 
 ---
