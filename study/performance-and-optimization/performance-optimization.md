@@ -3,6 +3,14 @@ layout: default
 title: Performance Optimization
 ---
 
+---
 
+### 🔗 [Performance Optimization](/study/performance-and-optimization/)
 
-## jpa 성능 최적화
+- [Performance Optimization](/study/performance-and-optimization/performance-optimization)
+
+---
+
+[🔙 Back to Portfolio Main](../index.md)
+
+---
