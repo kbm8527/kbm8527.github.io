@@ -8,9 +8,11 @@ title: Java Spring
 
 ## 목차
 
-### 🔗 [JAVA - SPRING](/study/JAVA - SPRING/)
+### 🔗 [JAVA - SPRING](/study/java-spring/)
 
-- [Spring Mvc Overview](/study/JAVA - SPRING/Spring Mvc Overview.md)
+- [Java](/study/java-spring/java)
+- [Spring](/study/java-spring/spring)
+- [Spring Mvc](/study/java-spring/spring-mvc)
 
 ---
 [🔙 Back to Portfolio Main](../index.md)
