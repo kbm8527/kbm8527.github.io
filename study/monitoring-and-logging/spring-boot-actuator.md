@@ -3,6 +3,15 @@ layout: default
 title: Spring Boot Actuator
 ---
 
+---
 
+## 목차
 
-## 애플리케이션 모니터링을 위한 spring boot actuator 사용
+### 🔗 [Spring Boot Actuator](/study/monitoring-and-logging/)
+
+- [Spring Boot Actuator](/study/monitoring-and-logging/spring-boot-actuator)
+
+---
+[🔙 Back to Portfolio Main](../index.md)
+
+---
