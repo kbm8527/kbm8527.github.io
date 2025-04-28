@@ -24,8 +24,3 @@ title: Restful Api Design
 ---
 
 
-  
----
-[🔙 Back to Portfolio Main](../index.md)
-
----
