@@ -1,6 +1,6 @@
 ---
 layout: default
-title: HTTP & Web 구조
+title: Java Basics
 ---
 
 
