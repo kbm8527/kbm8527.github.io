@@ -7,7 +7,7 @@ title: Data Structures
 
 ---
 
-## 📊 [Data Structures](/study/algorithms-and-data-structures/data-structures.md)
+## 📊 [Data Structures](/study/algorithms-and-data-structures/data-structures)
 
 
 
