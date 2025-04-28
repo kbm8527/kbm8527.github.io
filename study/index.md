@@ -14,46 +14,46 @@ title: STUDY
 - [ALGORITHMS & DATA STRUCTURES](/study/algorithms-and-data-structures/)
 
 ## 🌐 API DESIGN
-- [API DESIGN](/study/api-design/index.md)
+- [API DESIGN](/study/api-design/)
 
 ## 🔐 AUTHENTICATION & SECURITY
-- [AUTHENTICATION & SECURITY](/study/authentication-and-security/index.md)
+- [AUTHENTICATION & SECURITY](/study/authentication-and-security/)
 
 ## 🧠 BASIC CS & PROGRAMMING
-- [BASIC CS & PROGRAMMING](/study/basic-cs-and-programming/index.md)
+- [BASIC CS & PROGRAMMING](/study/basic-cs-and-programming/)
 
 ## 🧾 DATABASE DESIGN
-- [DATABASE DESIGN](/study/database-design/index.md)
+- [DATABASE DESIGN](/study/database-design/)
 
 ## 🐳 DEPLOYMENT & OPERATION
-- [DEPLOYMENT & OPERATION](/study/deployment-and-operation/index.md)
+- [DEPLOYMENT & OPERATION](/study/deployment-and-operation/)
 
 ## ⚙️ DEVTOOLS & ENVIRONMENT
-- [DEVTOOLS & ENVIRONMENT](/study/devtools-and-environment/index.md)
+- [DEVTOOLS & ENVIRONMENT](/study/devtools-and-environment/)
 
 ## ☁️ INFRASTRUCTURE
-- [INFRASTRUCTURE](/study/infrastructure/index.md)
+- [INFRASTRUCTURE](/study/infrastructure/)
 
 ## ☕ JAVA - SPRING
-- [JAVA - SPRING](/study/java-spring/index.md)
+- [JAVA - SPRING](/study/java-spring/)
 
 ## 🛠 MONITORING & LOGGING
-- [MONITORING & LOGGING](/study/monitoring-and-logging/index.md)
+- [MONITORING & LOGGING](/study/monitoring-and-logging/)
 
 ## 🌐 NETWORK & WEB
-- [NETWORK & WEB](/study/network-and-web/index.md)
+- [NETWORK & WEB](/study/network-and-web/)
 
 ## 📈 PERFORMANCE & OPTIMIZATION
-- [PERFORMANCE & OPTIMIZATION](/study/performance-and-optimization/index.md)
+- [PERFORMANCE & OPTIMIZATION](/study/performance-and-optimization/)
 
 ## 📐 SOFTWARE ENGINEERING PRINCIPLES
-- [SOFTWARE ENGINEERING PRINCIPLES](/study/software-engineering-principles/index.md)
+- [SOFTWARE ENGINEERING PRINCIPLES](/study/software-engineering-principles/)
 
 ## 🏗 SYSTEM ARCHITECTURE
-- [SYSTEM ARCHITECTURE](/study/system-architecture/index.md)
+- [SYSTEM ARCHITECTURE](/study/system-architecture/)
 
 ## 🧪 TESTING & EXCEPTION HANDLING
-- [TESTING & EXCEPTION HANDLING](/study/testing-and-exception-handling/index.md)
+- [TESTING & EXCEPTION HANDLING](/study/testing-and-exception-handling/)
 
 
 ---
