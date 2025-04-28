@@ -8,14 +8,13 @@ title: everythis for web-develop
 
 ## 목차
 
-### 🔗 [DEPLOYOMENT & OPERATIONS](/study/DEPLOYOMENT & OPERATION/)
+### 🔗 [DEPLOYMENT & OPERATION](/study/deployment-and-operation/)
 
-- [Github Actions](/study/DEPLOYOMENT & OPERATION/Github Actions.md)
-- [Jenkins Pipeline](/study/DEPLOYOMENT & OPERATION/Jenkins Pipeline.md)
-- [Ec2 Docker Deployment](/study/DEPLOYOMENT & OPERATION/Ec2 Docker Deployment.md)
-- [Blue Green Deployment](/study/DEPLOYOMENT & OPERATION/Blue Green Deployment.md)
-- [Traffic Scaling](/study/DEPLOYOMENT & OPERATION/Traffic Scaling.md)
-
+- [CI/CD Pipelines](/study/deployment-and-operation/ci-cd-pipelines.md)
+- [DevTools & Environment](/study/deployment-and-operation/devtools-and-environment.md)
+- [EC2 Docker Deployment](/study/deployment-and-operation/ec2-docker-deployment.md)
+- [Zero Downtime Deployment](/study/deployment-and-operation/zero-downtime-deployment.md)
+  
 ---
 [🔙 Back to Portfolio Main](../index.md)
 
