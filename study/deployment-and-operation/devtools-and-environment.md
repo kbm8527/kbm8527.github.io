@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CI CD Pipelines
+title: DevTools & Environment
 ---
 
 
