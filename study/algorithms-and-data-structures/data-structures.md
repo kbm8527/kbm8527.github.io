@@ -1,3 +1,9 @@
+---
+layout: default
+title: Data Structures
+---
+
+
 <<<<<<< HEAD
 
 =======
