@@ -11,7 +11,7 @@ title: everythis for web-develop
 
 ### 🔗 [API DESIGN](/study/api-design/)
 
-- [Restful Principles](/study/api-design/restful-api-principles.md)
+- [Restful Principles](/study/api-design/restful-api-design.md)
 - [Dto Vo Structure](/study/api-design/dto-vo-structure.md)
 - [URI Design Strategy](/study/api-design/uri-design-strategy.md)
 - [HTTP Methods and Status Codes](/study/api-design/http-methods-and-status-codes.md)
