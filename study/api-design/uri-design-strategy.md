@@ -4,9 +4,6 @@ title: Uri Design Strategy
 
 ---
 
-
-
-
 ---
 
 ## 목차
@@ -14,9 +11,10 @@ title: Uri Design Strategy
 
 ### 🔗 [URI Design Strategy](/study/api-design/)
 
-- [URI Design Strategy](/study/api-design/uri-design-strategy.md)
+- [URI Design Strategy](/study/api-design/uri-design-strategy)
 
 ---
+
 [🔙 Back to Portfolio Main](../index.md)
 
 ---
