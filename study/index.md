@@ -55,6 +55,9 @@ title: STUDY
 ## 🧪 TESTING & EXCEPTION HANDLING
 - [TESTING & EXCEPTION HANDLING](/study/testing-and-exception-handling/)
 
+## ANYTHINGS
+- [ANYTHINGS](/study/anythings/)
+- [MEMO](/study/anythings/)
 
 ---
 [🔙 Back to Portfolio Main](../index.md)
