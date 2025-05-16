@@ -1,0 +1,78 @@
+Server:
+  port: 8000
+  forward-headers-strategy: framework
+
+spring:
+  main:
+    web-application-type: reactive
+  application:
+    name: gateway-service
+
+  cloud:
+    gateway:
+      default-filters:
+        - DedupeResponseHeader=Access-Control-Allow-Origin Access-Control-Allow-Credentials
+      global-cors:
+        cors-configurations:
+          '[/**]':
+            allowedOrigins:
+              - "http://localhost:3000"
+            allow-credentials: true
+            allowedHeaders:
+              - x-requested-with
+              - Authorization
+              - content-type
+              - credential
+              - X-AUTH-TOKEN
+              - X-CSRF-TOKEN
+            allowedMethods:
+              - PUT
+              - GET
+              - POST
+              - PATCH
+              - DELETE
+              - OPTIONS
+      routes:
+        - id: auth-service
+          uri: lb://AUTH-SERVICE
+          predicates:
+            - Path=/auth-service/**
+          filters:
+            - StripPrefix=1
+        #              - JwtAuthenticationFilter
+
+        - id: feed-service
+          uri: lb://FEED-SERVICE
+          predicates:
+            - Path=/feed-service/**
+          filters:
+            - StripPrefix=1
+#              jwtfilter
+
+        - id: chat-service
+          uri: lb://CHAT-SERVICE
+          predicates:
+            - Path=/chat-service/**
+          filters:
+            - StripPrefix=1
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+springdoc:
+  api-docs:
+    path: /v3/api-docs  # API 문서 경로
+  swagger-ui:
+    enabled: true
+    path: /swagger-ui.html
+
+    urls:
+      #      - url: "/feed-service/v3/api-docs"
+      #        name: "Feed Service API"
+      - url: "/auth-service/v3/api-docs"
+        name: "Auth Service API"
+JWT:
+  secret-key: 1bce3fa358ad5f5d89b2ec5d45ab89bb574244593afee33fd5d46f902bc398c4
